@@ -1,5 +1,5 @@
 import openai
-openai.api_key = "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"
+openai.api_key = ""
 
 class TextProcessor:
     def openai_translate(self, text):
